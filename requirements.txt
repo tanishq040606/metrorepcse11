@@ -1,0 +1,5 @@
+qrcode
+pillow
+streamlit
+uuid
+gtts
